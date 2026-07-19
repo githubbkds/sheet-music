@@ -2,7 +2,10 @@
 
 \header {
   title = "Cuerdas de Amor"
-  subtitle = "Versión en Re Mayor / Si Menor"
+  composer="Julio Melgar"
+  subtitle = "Tonalidad: D"
+  arranger = "B.S."
+
 }
 
 cancionAcordes = \chordmode {
